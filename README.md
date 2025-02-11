@@ -2,7 +2,7 @@
 
 The source for badgernote.com, a web interface for sharing and accessing all sorts of documents made by UW-Students that want other students to succeed in their courses.
 
-# Docker Instructions
+## Docker Instructions
 
 Not yet available :(
 
@@ -12,6 +12,6 @@ Not yet available :(
 
 Not yet available :(
 
-# Example Page
+## Example Page
 
 Not yet available :(
