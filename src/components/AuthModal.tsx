@@ -5,7 +5,7 @@ interface AuthModalProps {
   onClose: () => void;
 }
 
-const API_URL = process.env.REACT_APP_BACKEND_URL + "/api/auth";  // ✅ Use environment variable
+const API_URL = process.env.REACT_APP_BACKEND_URL + "/api/auth"; 
 
 const AuthModal: React.FC<AuthModalProps> = ({ onClose }) => {
   const [email, setEmail] = useState("");
