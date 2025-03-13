@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
-import AuthModal from "./AuthModal";
+import AuthModal from "./AuthModal.tsx";
 
 const Navbar: React.FC = () => {
   const [showAuth, setShowAuth] = useState(false);
